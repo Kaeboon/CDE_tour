@@ -1,4 +1,4 @@
-# engineeringtour
-A web-tour of the Faculty of Engineering in NUS (Tel-Imaginarium tutorial)
+# Engineering_tour
+A 360 webtour of NUS CDE Building.
 
 https://kaeboon.github.io/engineeringtour/
